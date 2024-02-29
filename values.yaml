@@ -8,7 +8,7 @@ image:
   repository: docker.io/avishilon22/bynet-repo
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "322"
+  tag: "323"
 
 nameOverride: ""
 fullnameOverride: ""
